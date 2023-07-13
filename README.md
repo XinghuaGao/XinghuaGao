@@ -1,27 +1,31 @@
-<h1 align="center">Hi 👋, I'm Ray Gao</h1>
+[![MasterHead](https://www.cognex.com/library/media/blogs/deep-learning-blogs/2019/what-is-deep-learning-large.jpg?sc_lang=en&h=300&w=945&la=en&hash=2701661E1DB5BB88BFB7815323BF9479)](https://github.com/XinghuaGao)
+<h1 align="center">Hi friends 👋, I'm Ray Gao</h1>
 <h3 align="center">Assistant Professor at Virginia Tech</h3>
+<img align="right" alt="Coding' width="250" height="350"  src="https://miro.medium.com/v2/resize:fit:1100/0*oHwW14arOJOAy7Pm.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinghuagao&label=Profile%20views&color=0e75b6&style=flat" alt="xinghuagao" /> </p>
 
-- 🔭 I’m currently working on **some research proposals**
+- 🔭 I’m currently working on **Variational Autoencoder**
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/XinghuaGao](https://github.com/XinghuaGao)
+- 👨‍💻 Some of my projects are available at [https://github.com/XinghuaGao](https://github.com/XinghuaGao)
 
-- 📝 I regularly write articles on [www.raygaoai.com](www.raygaoai.com)
+- 🗞️ **Xinghua** is my exotic legal first name
+
+- 🏗️ My personal website [www.raygaoai.com](www.raygaoai.com) is under construction
 
 - 💬 Ask me about **Python, R, SQL, AWS**
 
-- 📫 How to reach me **ray.gao.ai@gmail.com**
+- 📫 Reach me via **ray.gao.ai@gmail.com**
 
 - ⚡ Fun fact **I'm also a trained structural engineer and construction engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://scholar.google.com/citations?user=ejnTiAoAAAAJ&hl=en" target="blank"><img align="center" src="https://www.svgrepo.com/show/349396/google-scholar.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/xinghua-gao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/xinghua-gao" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCcRv5bdTBUQLAI2G6JwWk5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccrv5bdtbuqlai2g6jwwk5a" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=ejnTiAoAAAAJ&hl=en" target="blank"><img align="center" src="https://www.svgrepo.com/show/349396/google-scholar.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
