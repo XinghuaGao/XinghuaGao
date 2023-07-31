@@ -5,15 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinghuagao&label=Profile%20views&color=0e75b6&style=flat" alt="xinghuagao" /> </p>
 
-- 🔭 I’m currently working on **Variational Autoencoder**
-
-- 🌱 I’m currently learning **Docker**
-
-- 👨‍💻 Some of my projects are available at [https://github.com/XinghuaGao](https://github.com/XinghuaGao)
+- 🏗️ My personal website [www.raygaoai.com](www.raygaoai.com) is under construction
 
 - 🗞️ **Xinghua** is my exotic legal first name
-
-- 🏗️ My personal website [www.raygaoai.com](www.raygaoai.com) is under construction
 
 - 💬 Ask me about **Python, R, SQL, AWS**
 
