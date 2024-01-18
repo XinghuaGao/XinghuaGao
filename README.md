@@ -1,6 +1,6 @@
 [![MasterHead](https://www.cognex.com/library/media/blogs/deep-learning-blogs/2019/what-is-deep-learning-large.jpg?sc_lang=en&h=300&w=945&la=en&hash=2701661E1DB5BB88BFB7815323BF9479)](https://github.com/XinghuaGao)
 <h1 align="center">Hi friends 👋, I'm Ray Gao</h1>
-<h3 align="center">Data Scientist, Builder, Assistant Professor at Virginia Tech</h3>
+<h3 align="center">AI Researcher, Builder, Assistant Professor at Virginia Tech</h3>
 <img align="right" alt="Coding' width="250" height="350"  src="https://miro.medium.com/v2/resize:fit:1100/0*oHwW14arOJOAy7Pm.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinghuagao&label=Profile%20views&color=0e75b6&style=flat" alt="xinghuagao" /> </p>
