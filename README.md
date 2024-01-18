@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xinghuagao&label=Profile%20views&color=0e75b6&style=flat" alt="xinghuagao" /> </p>
 
-- 🏗️ My personal website: [www.ray-gao.com](www.ray-gao.com)
+- 🏗️ [My personal website](www.ray-gao.com)
 
 - 🗞️ **Xinghua** is my exotic legal first name
 
