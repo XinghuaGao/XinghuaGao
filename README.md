@@ -13,7 +13,7 @@
 
 - 📫 Reach me via **ray.gao.ai@gmail.com**
 
-- ⚡ Fun fact **I'm also a trained structural engineer and construction engineer**
+- ⚡ Fun fact **I'm also a structural engineer and construction engineer by training**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
